@@ -338,7 +338,7 @@ Java/Kotlin compilation is configured for JVM 11.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Chupacabra0000/BST_Android.git
+git clone https://github.com/Chupacabra0000/BST_Visualizer_Android_app.git
 ```
 
 Open the project in **Android Studio**.
