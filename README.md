@@ -394,24 +394,3 @@ To install the debug application on a connected Android device or emulator:
 10. Press **Save** to store the values locally.
 11. Press **Load** to restore the saved values.
 
-## Educational Purpose
-
-The project demonstrates several fundamental software engineering and computer science concepts:
-
-* Binary Search Trees
-* Tree traversal
-* Recursion
-* Dynamic data structures
-* Parent/child node relationships
-* Order-statistic indexing
-* Generic data handling through interfaces
-* Custom comparators
-* Serialization and deserialization
-* Android UI development
-* Custom Android views
-* ViewModel-based state management
-* Unit and instrumentation testing structure
-
-## License
-
-No explicit license is currently specified in the repository.
